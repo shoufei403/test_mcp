@@ -1,6 +1,4 @@
-IyBNb2RlbCBDb250ZXh0IFByb3RvY29sIChNQ1ApIOaOpeaUtuS-k
-
-库
+# Model Context Protocol (MCP) 探索仓库
 
 ## 🌟 项目简介
 
